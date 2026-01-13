@@ -79,17 +79,3 @@ The data, examples, and scenarios used in this project are **for educational pur
 ## 📬 Contact
 
 If you have questions regarding this repository or coursework, feel free to reach out.
-
----
-
-⭐ *If you find this repository helpful, consider giving it a star.*
-
----
-
-If you want, I can also:
-
-* Add **badges** (Markdown, Excel, Google Forms)
-* Make it **shorter** or **more technical**
-* Format it for **portfolio-style GitHub profile**
-
-Just tell me 🚀
