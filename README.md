@@ -11,7 +11,7 @@ This repository contains the complete **NALS Digital Literacy Practical File (20
 
 ## 👤 Student Details
 
-* **Name:** Ansh Giri
+* **Name:** Ansh Giri Goswami
 * **Course:** NALS – Digital Literacy
 * **Year:** 2025
 
